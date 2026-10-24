@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Om 👋
 
-<!--
-**theomatrix/theomatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agents that do the boring stuff and catch the bad actors.
+Student, graduating ~2028. Looking for AI Engineering / AI Automation internships.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[veritas-swarm](https://github.com/theomatrix/veritas-swarm)**: agent swarm for deepfake detection
+- **[Offer-Quest-MCP-](https://github.com/theomatrix/Offer-Quest-MCP-)**: MCP server for job searching
+- **[PhishPolice](https://github.com/theomatrix/PhishPolice)**: phishing detection
+
+## Stack
+
+Python · MCP · LLM agents · Security · Full-stack
+
+## Find me
+
+- Portfolio: https://om-prakash-portfolio--dex0alpha.replit.app
