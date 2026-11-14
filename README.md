@@ -11,8 +11,8 @@ Student, graduating ~2028. Looking for AI Engineering / AI Automation internship
 
 ## Stack
 
-Python · MCP · LLM agents · Security · Full-stack
+Python · MCP · LLM · Agents · Security · RAG · Google ADK
 
 ## Find me
 
-- Portfolio: https://om-prakash-portfolio--dex0alpha.replit.app
+- Linkedin : https://www.linkedin.com/in/alpha-dex/
